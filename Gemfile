@@ -16,7 +16,7 @@ gem 'sass-rails',     '~> 4.0'
 gem 'coffee-rails',   '~> 4.0'
 gem 'uglifier',       '~> 2.5'
 
-gem 'jquery-rails',   '~> 3.1'
+gem 'jquery-rails',   '~> 4.3'
 
 group :production do
   gem 'rails_log_stdout',           github: 'heroku/rails_log_stdout'
